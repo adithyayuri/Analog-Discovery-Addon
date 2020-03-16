@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: ad2addon.CMPcbDoc   24-03-2019  11:23:27 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ad2addon.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        9.84mil (0.24994mm)      Round          91               15.42 Inch (391.79 mm)
+T2        36mil (0.9144mm)         Round          12               1.20 Inch (30.48 mm)
+T3        39.37mil (1mm)           Round          18               3.19 Inch (80.90 mm)
+T4        40.16mil (1.02006mm)     Round          60               9.82 Inch (249.43 mm)
+T5        46.06mil (1.16992mm)     Round          4                3.98 Inch (101.04 mm)
+T6        49.21mil (1.24993mm)     Round          2                0.20 Inch (5.08 mm)
+T7        83.07mil (2.10998mm)     Round          16               6.58 Inch (167.04 mm)
+---------------------------------------------------------------------------
+Totals                                            203              40.38 Inch (1025.77 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

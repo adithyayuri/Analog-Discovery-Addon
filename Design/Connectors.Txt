@@ -1,0 +1,18 @@
+BNC Female right angle:
+- TE Connectivity 5-1634556-0
+- TE Connectivity 5415025-2
+https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1634513&DocType=Customer+Drawing&DocLang=English
+
+SMA Connectors:
+
+
+Headers/Jumpers:
+2x6 Header : TE Part # 826656-6
+https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/68000.pdf
+
+Ternimal block:
+2 pin terninal block : te connectivity 282837-2
+
+
+https://documentation.circuitmaker.com/display/CMAK/From+Idea+to+Manufacture+-+Driving+a+PCB+Design+through+CircuitMaker
+https://www.youtube.com/watch?v=-ZOtEvNpzWM
